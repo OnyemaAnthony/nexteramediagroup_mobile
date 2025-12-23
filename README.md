@@ -16,7 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ---
-
+<p align="center">
+<img src="screenshots/home.png" width="30%">
+<img src="screenshots/detail.png" width="30%">
+</p>
 ## Development Setup
 
 Follow these steps to set up and run the project locally. This project requires specific versions of Flutter and Dart to run correctly.
